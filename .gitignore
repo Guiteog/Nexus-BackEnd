@@ -1,9 +1,7 @@
-# Dependências (Nunca envie a pasta node_modules)
+# Dependências
 node_modules/
 
-# Variáveis de ambiente (Contém senhas e chaves secretas)
+
 .env
 
-# Pastas de build (Se você usar TypeScript no futuro)
-dist/
-build/
+
